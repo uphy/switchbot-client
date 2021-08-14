@@ -1,0 +1,1 @@
+from switchbot.switchbot import SwitchBotClient
